@@ -1,3 +1,6 @@
+body{
+    background-color:grey;
+}
 #product{
     display: flex;
     flex-direction:row;

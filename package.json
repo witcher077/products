@@ -1,0 +1,19 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witcher077/products.git"
+  },
+  "author": "Ashok Kumar Mahto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witcher077/products/issues"
+  },
+  "homepage": "https://github.com/witcher077/products#readme"
+}
